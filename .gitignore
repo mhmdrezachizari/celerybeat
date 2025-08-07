@@ -1,0 +1,25 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+db.sqlite3
+media/
+static_collected/
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Environment Variables and Secrets
+.env
+local_settings.py
+
+# IDE and Editor
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
